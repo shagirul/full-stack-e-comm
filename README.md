@@ -25,25 +25,27 @@ Built a TypeScript-based full-stack e-commerce app with an **MVC** backend using
 - **Payment**: Stripe
 - **Other Tools**: Caching, Schema Design, API Aggregation
 
----
+## Demo Images
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; margin: 10px;">
+### User Interface Screenshots
+
+<div style="display: flex; justify-content: space-between; overflow-x: auto;">
+  <div style="flex: 0 0 auto; margin: 10px;">
     <img width="394" height="853" alt="image" src="https://github.com/user-attachments/assets/5d2ee017-2901-4331-bc5e-14b342dd0282" />
     <p style="text-align: center;">Homepage view of the e-commerce platform.</p>
   </div>
   
-  <div style="flex: 1; margin: 10px;">
+  <div style="flex: 0 0 auto; margin: 10px;">
     <img width="376" height="668" alt="image" src="https://github.com/user-attachments/assets/e9e93cc3-fc2a-461b-a832-d13fe7a5240b" />
     <p style="text-align: center;">Product listing with detailed view.</p>
   </div>
   
-  <div style="flex: 1; margin: 10px;">
+  <div style="flex: 0 0 auto; margin: 10px;">
     <img width="376" height="668" alt="image" src="https://github.com/user-attachments/assets/be00fba7-ffe0-468c-a304-515848a45503" />
     <p style="text-align: center;">Admin panel with inventory and analytics.</p>
   </div>
   
-  <div style="flex: 1; margin: 10px;">
+  <div style="flex: 0 0 auto; margin: 10px;">
     <img width="374" height="664" alt="image" src="https://github.com/user-attachments/assets/739569dd-fcbd-4bd6-9403-48fae2c7bfe2" />
     <p style="text-align: center;">Secure checkout page integrated with Stripe.</p>
   </div>
